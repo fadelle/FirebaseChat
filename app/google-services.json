@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "912923044498",
+    "firebase_url": "https://firechatapp-14935.firebaseio.com",
+    "project_id": "firechatapp-14935",
+    "storage_bucket": "firechatapp-14935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912923044498:android:f14dc522803c781b",
+        "android_client_info": {
+          "package_name": "com.example.mohamad.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912923044498-t1b218up0p5esv4eahh4r0pob7ordol7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZZcIDgS4GhxvaHibuowDVE8U-UvHytE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
